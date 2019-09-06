@@ -1,2 +1,2 @@
 # CNN-Image-Classifier-Dog-vs-Cat-
-Image Classifier Using Constitutional Neural Network
+Image Classifier Using Convolutional Neural Network
